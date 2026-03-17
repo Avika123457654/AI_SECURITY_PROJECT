@@ -6,6 +6,8 @@
 
 MI_GUARD is a simple system that protects an AI from harmful user inputs.  
 It checks user input before it reaches the AI and blocks unsafe commands.
+
+
 ⚠️ Note:
 
 This project is currently a simplified prototype to demonstrate the core concept of the project.

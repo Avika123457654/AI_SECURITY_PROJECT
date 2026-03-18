@@ -4,7 +4,7 @@
 
 📌 Short Description
 
-MI_GUARD is a simple system that protects an AI from harmful user inputs.  
+MI_GUARD is a simple system that protects an AI agents from harmful user inputs and malicious attacks.  
 It checks user input before it reaches the AI and blocks unsafe commands.
 
 

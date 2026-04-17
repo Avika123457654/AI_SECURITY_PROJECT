@@ -1,0 +1,10 @@
+flask
+flask-cors
+Flask-Limiter
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+wikipedia
+supabase
+python-dotenv

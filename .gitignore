@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+
+# Local JSON Databases
+threat_db.json
